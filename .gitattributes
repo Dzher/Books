@@ -1,0 +1,4 @@
+cppBook/Effective[[:space:]]Modern[[:space:]]C++[[:space:]]简体中文版.pdf filter=lfs diff=lfs merge=lfs -text
+windowsBook/Windows[[:space:]]OS[[:space:]]Fundamentals.pdf filter=lfs diff=lfs merge=lfs -text
+pcbBook/Cadence[[:space:]]Allegro常见问题解答500例.pdf filter=lfs diff=lfs merge=lfs -text
+pcbBook/Cadence[[:space:]]Allegro实战攻略与高速PCB设计.pdf filter=lfs diff=lfs merge=lfs -text
